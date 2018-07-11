@@ -8,4 +8,4 @@ The code to calculate the arousal curve can be found in `arousalCurve.py`. For t
 The implementation of SVM, KNN and RF can be found in `Training.ipynb`.
 
 ### Feature generation
-- The implementation of the _number of players_ feature can be found in `NumberOfPlayer.ipynb`.
+- The implementation of the _number of players_ feature can be found in `NumberOfPlayersFeature.ipynb`.
